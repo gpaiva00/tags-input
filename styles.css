@@ -48,7 +48,7 @@ footer {
 }
 
 footer::after {
-    content: "Feito com ♥️ por Gabriel Paiva";
+    content: "Made with 💜 by Gabriel Paiva";
     opacity: 0.6;
     font-size: 0.8rem;
 }
